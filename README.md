@@ -10,3 +10,4 @@
 |先进支付|[note](InterestingAlgorithmPuzzlesForProgrammer/05/note.md)|[code](InterestingAlgorithmPuzzlesForProgrammer/05/code.rb)|
 |考拉兹猜想|[note](InterestingAlgorithmPuzzlesForProgrammer/06/note.md)|[code](InterestingAlgorithmPuzzlesForProgrammer/06/code.rb)|
 |日期的二进制转换|[note](InterestingAlgorithmPuzzlesForProgrammer/07/note.md)|[code](InterestingAlgorithmPuzzlesForProgrammer/07/code.rb)|
+|扫地机器人|[note](InterestingAlgorithmPuzzlesForProgrammer/08/note.md)|[code](InterestingAlgorithmPuzzlesForProgrammer/08/code.rb)|
